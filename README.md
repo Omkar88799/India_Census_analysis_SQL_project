@@ -1,5 +1,5 @@
 
-India Census Analysis Project Documentation
+# India Census Analysis Project  
 
 Introduction:      
 The India Census Analysis Project is aimed at extracting meaningful insights from the India Census data using SQL (Structured Query Language). 
